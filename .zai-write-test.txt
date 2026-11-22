@@ -1,1 +1,0 @@
-Archivo de prueba temporal para verificar permisos de escritura del plugin. Se elimina automáticamente.
